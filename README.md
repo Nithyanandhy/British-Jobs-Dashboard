@@ -22,14 +22,14 @@ This repository includes a collection of Tableau visualizations that present dif
 
 The Tableau dashboard offers the following features:
 
-- Interactive visualizations for Top 5 Sub Industries with percentage of job change .
-- Comparison of Jobs in 2011 and 2014 per city
+- Interactive visualizations for Top 5 Sub Industries with percentage of job change.
+- Comparison of Jobs in 2011 and 2014 per city.
 - Industries With Less Jobs in employment statistics in 2011.
 - Highlight Cities with total job change.
 
 
 Here are the link and example of the data visualization dashboard included:
-https://public.tableau.com/views/BritishjobsDashboard/Dashboard12?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/BritishjobsDashboard/Dashboard12?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 ![image](https://github.com/Nithyanandhy/British-Jobs-Dashboard/assets/61016606/2435d369-228d-4f91-9bf9-05f11922fc88)
 
