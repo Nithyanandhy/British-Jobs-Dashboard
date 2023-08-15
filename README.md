@@ -25,7 +25,7 @@ The Tableau dashboard offers the following features:
 - Interactive visualizations for Top 5 Sub Industries with percentage of job change.
 - Comparison of Jobs in 2011 and 2014 per city.
 - Industries With Less Jobs in employment statistics in 2011.
-- Highlight Cities with total job change.
+- Highlight Cities with total job change.</ul>
 
 
 Here are the link and example of the data visualization dashboard included:
